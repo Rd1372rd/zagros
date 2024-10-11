@@ -1,0 +1,118 @@
+body {
+    background-color: #0F0E0E;
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+/* start nav/
+nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+
+}
+
+.nav-box {
+    width: 85%;
+    margin: 0 auto;
+    border-radius: 0 0 40px 40px;
+
+}
+
+.nav-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 30px;
+    align-items: baseline;
+}
+
+.nav-links {
+    display: flex;
+    list-style-type: none;
+    width: 20%;
+
+
+
+}
+
+/* end nav*/
+
+/*start header/
+
+header {
+    height: 100%;
+
+}
+
+.header-box {
+    width: 95%;
+    margin: 0 auto;
+    height: 100%;
+
+}
+
+.header-content {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 227px;
+    margin-right: 150px;
+    margin-left: 80px;
+    height: 100%;
+}
+
+.header-items h3 {
+    color: #F5F5F5;
+    font-family: Yekan Bakh;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 62px;
+    text-align: right;
+}
+
+.header-items p {
+    color: #CFCFCF;
+    font-family: Yekan Bakh;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31px;
+    text-align: center;
+}
+
+
+.header-link {
+    font-family: Yekan Bakh;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27.9px;
+    text-align: center;
+    width: Fixed (152px)px;
+    height: Fixed (48px)px;
+    padding: 10px 24px 10px 24px;
+    gap: 19px;
+    border-radius: 33px;
+    border: 1px solid #F0A538;
+    opacity: 0.8px;
+    text-decoration: none;
+    color: #F0A538;
+}
+
+
+
+/* end header*/
